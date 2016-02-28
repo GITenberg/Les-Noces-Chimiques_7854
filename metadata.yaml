@@ -1,0 +1,58 @@
+_repo: Les-Noces-Chimiques_7854
+creator:
+  author:
+    agent_name: Rosencreutz, Christian
+    aliases:
+    - Rosenkreutz, Christian
+    - Rosicrucian
+    - Rosenkreuz, Christian
+    - Andrea, Johann Valentin
+    - Andreä, Johann Valentin
+    gutenberg_agent_id: '2558'
+    url: http://www.gutenberg.org/2009/agents/2558
+    wikipedia: http://en.wikipedia.org/wiki/Christian_Rosenkreuz
+description: "The Chymical Wedding of Christian Rosenkreutz (Chymische Hochzeit Christiani\
+  \ Rosencreutz anno 1459) was edited in 1616 in Strasbourg, and its anonymous authorship\
+  \ is attributed to Johann Valentin Andreae. The Chymical Wedding is often described\
+  \ as the third of the original manifestos of the mysterious \"Fraternity of the\
+  \ Rose Cross\" (Rosicrucians), although it is markedly different from the Fama Fraternitatis\
+  \ and Confessio Fraternitatis in style and in subject matter.\nIt is an allegoric\
+  \ romance (story) divided into Seven Days, or Seven Journeys, like Genesis, and\
+  \ tells us about the way Christian Rosenkreuz was invited to go to a wonderful castle\
+  \ full of miracles, in order to assist the Chymical Wedding of the king and the\
+  \ queen, that is, the husband and the bride.\nThis manifesto has been a source of\
+  \ inspiration for poets, alchemists (the word \"chymical\" is an old form of \"\
+  chemical\" and refers to alchemy—for which the 'Sacred Marriage' was the goal [1])\
+  \ and dreamers, through the force of its initiation ritual with processions of tests,\
+  \ purifications, death, resurrection, and ascension and also by its symbolism found\
+  \ since the beginning with the invitation to Rosenkreutz to assist this Royal Wedding.\n\
+  The invitation to the royal wedding includes the Monas Hieroglyphica associated\
+  \ with John Dee.\nThere is some resemblance between this alchemical romance and\
+  \ passages in the Bible such as:\nThe kingdom of heaven is like unto a certain king,\
+  \ which made a marriage for his son, and And when the king came in to see the guests,\
+  \ he saw there a man which had not on a wedding garment: (Matthew 22:2,11 KJV)\n\
+  And I John saw the holy city, new Jerusalem, coming down from God out of heaven,\
+  \ prepared as a bride adorned for her husband. (Revelation 21:2)\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7854'
+  wikidata: Q2456034
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Rosicrucians'
+title: Les Noces Chimiques
+url: http://www.gutenberg.org/ebooks/7854
+wikipedia:
+- https://eo.wikipedia.org/wiki/Nuptiae_Chymicae
+- https://ja.wikipedia.org/wiki/%E5%8C%96%E5%AD%A6%E3%81%AE%E7%B5%90%E5%A9%9A
+- https://fr.wikipedia.org/wiki/Les_Noces_Chymiques_de_Christian_Rosenkreutz
+- https://en.wikipedia.org/wiki/Chymical_Wedding_of_Christian_Rosenkreutz
+- https://sv.wikipedia.org/wiki/Christian_Rosencreutz_alkemiska_br%C3%B6llop_%C3%A5r_1459
+- https://it.wikipedia.org/wiki/Le_nozze_chimiche_di_Christian_Rosenkreutz
