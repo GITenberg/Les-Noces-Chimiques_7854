@@ -1,4 +1,8 @@
 _repo: Les-Noces-Chimiques_7854
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rosencreutz, Christian
@@ -34,6 +38,8 @@ description: "The Chymical Wedding of Christian Rosenkreutz (Chymische Hochzeit 
   And I John saw the holy city, new Jerusalem, coming down from God out of heaven,\
   \ prepared as a bride adorned for her husband. (Revelation 21:2)\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7854#Les-Noces-Chimiques
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
